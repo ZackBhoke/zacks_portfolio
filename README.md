@@ -7,6 +7,8 @@ The HR Analysis Power BI Dashboard provides key insights into workforce trends, 
 ## Key Features
 **1. Overview Page – Displays total employees, hiring trends, and department-wise distribution.** 
 
+![image_alt](https://github.com/ZackBhoke/zacks_portfolio/blob/6ab6fa314d834f0c38fe42d40ef5661e2d3fcc7b/images/Screenshot%202025-01-29%20180657.png)
+
 **2.Demographics Page – Analyzes employee age, gender, marital status, and salary diversity.**
 
 **3.Performance Tracker – Tracks job satisfaction, manager ratings, and work-life balance over time.**
