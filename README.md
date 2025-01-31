@@ -1,6 +1,7 @@
 # HR Analytics Power BI Portfolio Project
 
 [HR Analytics Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiYTllZDA4OTktZTRkYS00MDI5LWExY2ItZDZmMzc4ZWFiMzUwIiwidCI6IjFhNTAzODViLWZlNjItNGYzNS04MjI3LTU1Y2MwZjA2MDUzZiJ9)
+
 ## Overview
 The HR Analysis Power BI Dashboard provides key insights into workforce trends, employee performance, and attrition. It includes pages for employee demographics, satisfaction metrics, hiring trends, and turnover patterns to support data-driven HR decision-making.
 
@@ -11,13 +12,15 @@ The HR Analysis Power BI Dashboard provides key insights into workforce trends, 
 
 **2.Demographics Page – Analyzes employee age, gender, marital status, and salary diversity.**
 
-![image_alt]()
+![image_alt](https://github.com/ZackBhoke/zacks_portfolio/blob/226afda3144fda12b232d3f22f78354e67c2177f/images/Screenshot%202025-01-31%20140434.png)
 
 **3.Performance Tracker – Tracks job satisfaction, manager ratings, and work-life balance over time.**
 
 ![image_alt](https://github.com/ZackBhoke/zacks_portfolio/blob/d4642acc8128717acc8b07f74e8101b8cf8b8732/images/Screenshot%202025-01-31%20140652.png)
 
 **4.Attrition Analysis – Identifies turnover patterns by role, tenure, and year.**
+
+![image_alt](https://github.com/ZackBhoke/zacks_portfolio/blob/226afda3144fda12b232d3f22f78354e67c2177f/images/Screenshot%202025-01-31%20140519.png)
 
 ## Technical Skills & Tools Used
 1.Microsoft Excel & Power BI – Query Editing, Interactive dashboard development
@@ -30,15 +33,15 @@ The HR Analysis Power BI Dashboard provides key insights into workforce trends, 
 
 5.Statistical & Predictive Analytics – Forecasting turnover trends
 
-##Repository Contents
+## Repository Contents
 -Power BI .pbix file
 
--Dataset (if applicable)
+-CSV Datasets
 
--Project Documentation
+-Visualization Screenshots
 
-How to Use
--Download the Power BI file (.pbix).
+## How to Use
+-Click on the [link](https://app.powerbi.com/view?r=eyJrIjoiYTllZDA4OTktZTRkYS00MDI5LWExY2ItZDZmMzc4ZWFiMzUwIiwidCI6IjFhNTAzODViLWZlNjItNGYzNS04MjI3LTU1Y2MwZjA2MDUzZiJ9) or Download the Power BI file (.pbix).
 
 -Open in Power BI Desktop.
 
